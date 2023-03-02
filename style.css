@@ -1,0 +1,11 @@
+
+.main{
+    height: 150px;
+    width: 250px;
+    background-color: red;
+}
+.sub:hover{
+    height: 250px;
+    width: 350px;
+    
+}
